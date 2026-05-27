@@ -17,5 +17,6 @@
 
 <p>Testando actions agora</p>
 <p>Actions funcionando!!!</p>
+<p>Testando novamente</p>
 
 @endsection
